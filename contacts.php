@@ -90,9 +90,9 @@ if(mysqli_connect_errno()){
     <div class="collapse navbar-collapse" id="myNavbar">
        
       <ul class="nav navbar-nav navbar-right">
-        <li class="active"><a href="file:///C:/Users/noormohammed/Desktop/New%20folder/index.html"> Home </a></li>
-        <li><a href="file:///C:/Users/noormohammed/Desktop/New%20folder/phones.html"> Phones </a></li>
-        <li><a href="file:///C:/Users/noormohammed/Desktop/New%20folder/tablets.html"> Tablets</a></li>
+        <li class="active"><a href="index.html"> Home </a></li>
+        <li><a href="phones.html"> Phones </a></li>
+        <li><a href="tablets.html"> Tablets</a></li>
         <li><a href="#">Contacts</a></li>
       </ul>
     </div>
